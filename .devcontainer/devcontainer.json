@@ -1,0 +1,11 @@
+{
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "chat.disableAIFeatures": true,
+        "github.copilot.enable": { "*": false },
+        "settingsSync.enabled": false
+      }
+    }
+  }
+}
